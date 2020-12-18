@@ -4,4 +4,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Imagem:
 
-https://imgur.com/a/9o1pAkX
+<img src="https://i.imgur.com/b6JCMwk.png" width="350">
